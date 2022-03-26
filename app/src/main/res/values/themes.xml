@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Simple_Theme_2" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorAccent">@color/d_d1_blue2</item>
+        <item name="android:navigationBarColor">@color/white2</item>
+        <item name="android:windowBackground">@color/white</item>
+
+        <item name="colorPrimary">@color/chineseBlack2</item>
+        <item name="colorOnPrimary">@color/White</item>
+        <item name="colorSecondary">@color/Black</item>
+
+        <!--        <item name="otpViewStyle">@style/OtpWidget.OtpView</item>-->
+
+        <!-- To change the popup menu and app text color  -->
+        <item name="android:textColor">@color/Grey_6_Dark</item>
+
+        <!-- To change the background of options menu-->
+        <item name="android:itemBackground">@color/white</item>
+        <item name="popupMenuBackground">@color/white</item>
+
+    </style>
+
+</resources>
